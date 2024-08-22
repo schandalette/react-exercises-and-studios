@@ -1,10 +1,17 @@
+
+
 .choresText {
    color: rgb(17, 75, 17);
    font-size: large;
    font-style: italic;
+   list-style-type: disc;
+   text-align: left;
+   background-color: bisque;
   }
 
 .choresHeading {
    color: rgb(181, 60, 197);
    text-decoration: underline;
+   text-align: left;
 }
+
